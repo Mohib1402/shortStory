@@ -50,7 +50,7 @@ The slide deck covers:
 
 ## **Medium Article**
 
-📝 **[Read the Medium Article](https://medium.com/your-article-link)**  
+📝 **[Read the Medium Article](https://medium.com/@uu7470911/rl-pruner-reinforcement-learning-meets-neural-network-compression-f9859bbc7f8f)**  
 The article provides an engaging summary of RL-Pruner, focusing on:
 - Its innovative methodology.
 - Practical results.
