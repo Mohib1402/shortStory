@@ -40,7 +40,7 @@ Here’s what this repository includes:
 
 ## **Presentation**
 
-📄 **[Download the Presentation PDF](./RL-Pruner-Presentation.pdf)**  
+📄 **[Download the Presentation PDF](https://docs.google.com/presentation/d/13sZPxEgiA0rngev2y4G6vMx_XQD4on9WHxgg0RzqcSM/edit?usp=sharing)**  
 The slide deck covers:
 - Introduction to CNN compression challenges.
 - How RL-Pruner works.
