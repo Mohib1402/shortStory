@@ -60,7 +60,7 @@ The article provides an engaging summary of RL-Pruner, focusing on:
 
 ## **Video Walkthrough**
 
-🎥 **[Watch the YouTube Video](https://youtube.com/your-video-link)**  
+🎥 **[Watch the YouTube Video](https://youtu.be/ckF7WDyEsHs)**  
 This 10-minute walkthrough covers the presentation and gives detailed insights into the RL-Pruner project.
 
 ---
